@@ -1,7 +1,7 @@
 version: 0.2
 env:
   variables:
-    APP_NAME: "angular-cicd-pipeline-demo"
+    APP_NAME: "to-do-list"
 phases:
   install:
     runtime-versions:
